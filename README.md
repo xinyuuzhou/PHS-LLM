@@ -1,4 +1,4 @@
-# PHS-LLM: Real-time Public Health Surveillance Pipeline using Large Language Models  (in progress)
+# PHS-LLM: Real-time Multilingual Multiplatform Public Health Surveillance Pipeline using Large Language Models  (in progress)
 
 BIS 687 Capstone Project @ Yale University
 
