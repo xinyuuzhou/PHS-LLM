@@ -2,6 +2,9 @@
 
 BIS 687 Capstone Project @ Yale University
 
+**link to the models**: TBA  
+**link to the dataset**: TBA  
+
 ### Why is it important?
 **One of the major gaps in social media inforveillance is the lack of real-time inforveillance.** 
 
