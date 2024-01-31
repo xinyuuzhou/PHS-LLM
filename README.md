@@ -14,14 +14,14 @@ Using Flash attention-2 [7], DeepSpeed ZeRO Stage3 [8], and QLoRA [9], we can (c
 Based on the LLMs we pre-train (and ChatGPT API if needed), we can develop a real-time public health surveillance pipeline, where we (1) collect data from social media platforms using API (2) remove sensitive information from social media posts [10] (3) analyze de-identified data based on LLMs (4) provide the pipeline for exporting data for statistical analysis (5) provide pipelines for visualizing data using figures or websites.
 
 ### References:
-[1] Zhou, Xinyu, et al. "Spatiotemporal trends in COVID-19 vaccine sentiments on a social media platform and correlations with reported vaccine coverage." Bulletin of the World Health Organization 102.1 (2024): 32.
-[2] Zhou, Xinyu, et al. "Comparison of public responses to containment measures during the initial outbreak and resurgence of COVID-19 in China: infodemiology study." Journal of medical Internet research 23.4 (2021): e26518.
-[3] Zhou, Xinyu, et al. "Deep Learning Analysis of COVID-19 Vaccine Hesitancy and Confidence Expressed on Twitter in 6 High-Income Countries: Longitudinal Observational Study." Journal of Medical Internet Research 25 (2023): e49753.
-[4] Tsao, Shu-Feng, et al. "What social media told us in the time of COVID-19: a scoping review." The Lancet Digital Health 3.3 (2021): e175-e194.
-[5] Cai, Jun, et al. "Modeling transmission of SARS-CoV-2 omicron in China." Nature medicine 28.7 (2022): 1468-1475.
-[6] Touvron, Hugo, et al. "Llama 2: Open foundation and fine-tuned chat models." arXiv preprint arXiv:2307.09288 (2023).
-[7] Dao, Tri. "Flashattention-2: Faster attention with better parallelism and work partitioning." arXiv preprint arXiv:2307.08691 (2023).
-[8] Aminabadi, Reza Yazdani, et al. "DeepSpeed-inference: enabling efficient inference of transformer models at unprecedented scale." SC22: International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE, 2022.
-[9] Dettmers, Tim, et al. "Qlora: Efficient finetuning of quantized llms." arXiv preprint arXiv:2305.14314 (2023).
-[10] Norgeot, Beau, et al. "Protected Health Information filter (Philter): accurately and securely de-identifying free-text clinical notes." NPJ digital medicine 3.1 (2020): 57.
+[1] Zhou, Xinyu, et al. "Spatiotemporal trends in COVID-19 vaccine sentiments on a social media platform and correlations with reported vaccine coverage." Bulletin of the World Health Organization 102.1 (2024): 32.  
+[2] Zhou, Xinyu, et al. "Comparison of public responses to containment measures during the initial outbreak and resurgence of COVID-19 in China: infodemiology study." Journal of medical Internet research 23.4 (2021): e26518.  
+[3] Zhou, Xinyu, et al. "Deep Learning Analysis of COVID-19 Vaccine Hesitancy and Confidence Expressed on Twitter in 6 High-Income Countries: Longitudinal Observational Study." Journal of Medical Internet Research 25 (2023): e49753.  
+[4] Tsao, Shu-Feng, et al. "What social media told us in the time of COVID-19: a scoping review." The Lancet Digital Health 3.3 (2021): e175-e194.  
+[5] Cai, Jun, et al. "Modeling transmission of SARS-CoV-2 omicron in China." Nature medicine 28.7 (2022): 1468-1475.  
+[6] Touvron, Hugo, et al. "Llama 2: Open foundation and fine-tuned chat models." arXiv preprint arXiv:2307.09288 (2023).  
+[7] Dao, Tri. "Flashattention-2: Faster attention with better parallelism and work partitioning." arXiv preprint arXiv:2307.08691 (2023).  
+[8] Aminabadi, Reza Yazdani, et al. "DeepSpeed-inference: enabling efficient inference of transformer models at unprecedented scale." SC22: International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE, 2022.  
+[9] Dettmers, Tim, et al. "Qlora: Efficient finetuning of quantized llms." arXiv preprint arXiv:2305.14314 (2023).  
+[10] Norgeot, Beau, et al. "Protected Health Information filter (Philter): accurately and securely de-identifying free-text clinical notes." NPJ digital medicine 3.1 (2020): 57.  
 
