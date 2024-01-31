@@ -1,2 +1,2 @@
 # PHS-LLM
-LLMs for public health infoveillance
+LLMs for public health surveillance on social media platfroms
