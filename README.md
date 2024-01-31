@@ -5,6 +5,9 @@ BIS 687 Capstone Project @ Yale University
 **link to the models**: TBA  
 **link to the dataset**: TBA  
 
+### News
+[Jan 31, 2024] Feel free to contact xinyu[dot]zhou[at]yale[dot]edu if you're interested in collaborating on this project!
+
 ### Why is it important?
 **One of the major gaps in social media inforveillance is the lack of real-time inforveillance.** 
 
